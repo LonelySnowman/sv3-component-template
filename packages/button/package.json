@@ -1,0 +1,13 @@
+{
+  "name": "@sv3-components/button",
+  "version": "1.0.0",
+  "description": "Button按钮组件",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LonelySnowman",
+  "license": "ISC",
+  "type": "module"
+}

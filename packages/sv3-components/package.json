@@ -1,0 +1,17 @@
+{
+  "name": "@sv3-components/sv3-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LonelySnowman",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@sv3-components/button": "workspace:^1.0.0",
+    "@sv3-components/foo": "workspace:^1.0.0"
+  }
+}
