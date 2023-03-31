@@ -1,0 +1,16 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "sv3-components",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LonelySnowman",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "vitepress": "1.0.0-alpha.64"
+  }
+}
