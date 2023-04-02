@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
-    "exclude": ["node_modules"],
+    "baseUrl": "./button",
     "jsx": "preserve",
     "strict": true,
     "target": "ES2015",

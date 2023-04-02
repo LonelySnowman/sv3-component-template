@@ -1,0 +1,13 @@
+{
+  "name": "@sv3-components/viedo",
+  "version": "1.0.0",
+  "description": "Video组件",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LonelySnowman",
+  "license": "ISC",
+  "type": "module"
+}

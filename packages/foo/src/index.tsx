@@ -16,6 +16,7 @@ export default defineComponent({
                 <h1>hare-ui Foo</h1>
                 <p>msg is: {props.msg}</p>
                 <button onClick={onBtnClick}>点击我</button>
+                foo 测试
             </div>
     )
   }

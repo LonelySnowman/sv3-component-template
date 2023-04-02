@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "@sv3-components/button": "workspace:^1.0.0",
-    "@sv3-components/foo": "workspace:^1.0.0"
+    "@sv3-components/foo": "workspace:^1.0.0",
+    "@sv3-components/viedo": "workspace:^1.0.0"
   }
 }
